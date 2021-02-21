@@ -22,3 +22,7 @@ The two files button (below the chronometer) is to change sorting mode to the co
 contrary to the button below which move the files to the destination folder ! 
 
 The home logo at the bottom left hand corner, serves to return to menu when you are in parameters.
+
+A global view of the UI:
+
+![](global_view.jpg)
