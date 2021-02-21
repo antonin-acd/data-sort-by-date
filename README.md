@@ -1,4 +1,4 @@
-# Chronological data sort
+# data sort by date
 ### This is a system of chronological file sort
 
 ## How to ?
