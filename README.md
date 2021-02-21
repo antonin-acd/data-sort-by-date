@@ -1,7 +1,7 @@
 # data sort by date
 ### This is a sorting system
 
-###You have the possibility to sort your data once or every x seconds !
+You have the possibility to sort your data once or every x seconds !
 
 On the first boot, you have to click on "Change destination folder" and enter the folder when datas will be put.
 
